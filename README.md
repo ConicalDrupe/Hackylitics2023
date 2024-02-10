@@ -8,4 +8,4 @@ git clone https://github.com/ConicalDrupe/Hackylitics2024.git
 git pull
 
 3) After done editing, push to repository to "save" <br />
-git push origin master
+git push
